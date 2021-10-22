@@ -4,17 +4,13 @@ A game for learning collaborative git. This is a co-op game meant for 2-4 player
 
 ## Team Members
 
-(Include name as a link to the person's github repo)
+(collabrate with David Ha, Jesse)
 
-- Maintainer:
-- Collaborator:
-- Contributor:
+- Maintainer: David 
+- Collaborator: Jesse
+- Contributor:Hyeju
 
 ## Rules
-
-1.
-2.
-3.
 
 ---
 
