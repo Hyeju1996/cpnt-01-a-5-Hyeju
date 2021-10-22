@@ -6,9 +6,9 @@ A game for learning collaborative git. This is a co-op game meant for 2-4 player
 
 (collabrate with David Ha, Jesse)
 
-- Maintainer: David 
+- Maintainer: Hyeju
 - Collaborator: Jesse
-- Contributor:Hyeju
+- Contributor:David
 
 ## Rules
 
