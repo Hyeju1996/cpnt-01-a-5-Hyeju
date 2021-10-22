@@ -12,6 +12,12 @@ A game for learning collaborative git. This is a co-op game meant for 2-4 player
 
 ## Rules
 
+1. All pull requests must have a +1 from collaborator before merging.
+
+2. Commit messages must be short and concise.
+
+3. Push one commit only.
+
 ---
 
 ## Image Attributions
